@@ -2,32 +2,35 @@ body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
     text-align: justify;
-  }
+}
 
-  .navbar-dark {
+.navbar-dark {
     background-color: #418C11;
-  }
+}
 
 .row-header {
     margin: 0px auto;
     /* padding: 0px 0px; */
-  }
-  
-  .row-content {
+}
+
+.row-content {
     margin: 0px auto;
     padding: 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
-  }
+}
 
-  .jumbotron {
+.jumbotron {
     margin: 0px auto;
     padding: 70px 30px;
     background: #addfad;
     color: darkgreen;
+}
+
+img {
+    width: 25vmax;
+    margin-left: 2vmax;
   }
-
-
 .footer {
     background: #e9ffdb;
-  }
+}
