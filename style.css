@@ -41,6 +41,25 @@ img {
     width: 25vmax;
     margin-left: 2vmax;
   }
+
+  table {
+  border: 1px solid black;
+  text-align: center;
+  border-collapse: collapse;
+  margin: 2vmax auto;
+  width: 100%;
+  
+}
+th, td {
+  padding: 3px;
+/* width: 8vmax; */
+}
+
+caption {
+  caption-side: top;
+  text-align: center;
+}
+
 .footer {
     background: #e9ffdb;
     margin: 0px auto;
