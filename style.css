@@ -20,6 +20,16 @@ body {
     min-height: 400px;
 }
 
+.modal-header {
+    background: #418C11;
+    color: floralwhite;
+  }
+  
+  .modal-body {
+    background: #addfad;
+    color: darkgreen;
+  }
+
 .jumbotron {
     margin: 0px auto;
     padding: 70px 30px;
