@@ -20,6 +20,13 @@ body {
     min-height: 400px;
   }
 
+  .jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #addfad;
+    color: darkgreen;
+  }
+
 
 .footer {
     background: #e9ffdb;
