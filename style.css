@@ -8,6 +8,10 @@ body {
     background-color: #418C11;
 }
 
+#logoutButton {
+    text-decoration: none;
+  }
+
 .row-header {
     margin: 0px auto;
     /* padding: 0px 0px; */
