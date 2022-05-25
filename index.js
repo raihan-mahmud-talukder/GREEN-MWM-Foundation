@@ -8,19 +8,19 @@ $(document).ready(function () {
 // user credentials
 
 const email_user = [
-    'a@prism.com', 'b@prism.com', 'c@prism.com', 'd@prism.com', 'e@prism.com'
+    'sakibsheakh1999@gmail.com'
 ]
 
 const password_user = [
-    12345, 22345, 32345, 42345, 52345
+    'sakibss25'
 ]
 
 const email_guest = [
-    'f@prism.com', 'g@prism.com', 'h@prism.com', 'i@prism.com', 'j@prism.com'
+    'sakibsheakh1999@gmail.com'
 ]
 
 const password_guest = [
-    62345, 72345, 82345, 92345, '02345'
+    'sakibss25'
 ]
 
 
